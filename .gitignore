@@ -1,0 +1,9 @@
+.DS_Store
+node_modules
+*.log
+reports/*
+screenshots/*
+screenshots/success/*
+screenshots/fail/*
+*.local.js
+!*.gitkeep
